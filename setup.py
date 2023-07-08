@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setuptools.setup(
     name="acrl",
-    version="0.0.2",
+    version="0.0.3",
     author="Alexandre Brilhante",
     author_email="alexandre.brilhante@gmail.com",
     long_description=long_description,
