@@ -7,7 +7,7 @@ import torch
 import torch.nn.functional as F
 import torch.optim as optim
 
-from ac.model import Actor, Critic
+from acrl.model import Actor, Critic
 
 BUFFER_SIZE = int(1e4)
 BATCH_SIZE = 128

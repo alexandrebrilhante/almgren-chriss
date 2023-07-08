@@ -1,7 +1,7 @@
 # almgren-chriss
 
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/acrl)
-![GitHub](https://img.shields.io/github/license/brilhana/acrl)
+![GitHub](https://img.shields.io/github/license/brilhana/almgren-chriss)
 
 Deep reinforcement learning for optimal execution of portfolio transactions.
 
@@ -16,8 +16,8 @@ from collections import deque
 
 import numpy as np
 
-import ac as sca
-from ac.agent import Agent
+import acrl as sca
+from acrl.agent import Agent
 
 env = sca.MarketEnvironment()
 

@@ -6,7 +6,7 @@ from statsmodels.compat.python import zip_longest
 from statsmodels.iolib.table import SimpleTable
 from statsmodels.iolib.tableformatting import fmt_2cols
 
-import ac.synthetic as sca
+import acrl.synthetic as sca
 
 
 def generate_table(left_col, right_col, table_title):
