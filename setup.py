@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="almgren-chriss",
+    name="acrl",
     version="0.0.1",
     author="Alexandre Brilhante",
     author_email="alexandre.brilhante@gmail.com",

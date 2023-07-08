@@ -1,13 +1,13 @@
 # almgren-chriss
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/almgren-chriss)
-![GitHub](https://img.shields.io/github/license/brilhana/almgren-chriss)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/acrl)
+![GitHub](https://img.shields.io/github/license/brilhana/acrl)
 
 Deep reinforcement learning for optimal execution of portfolio transactions.
 
 ## Installation
 ```bash
-pip install almgren-chriss
+pip install acrl
 ```
 
 ## Usage
