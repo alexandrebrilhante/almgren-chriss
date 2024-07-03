@@ -5,14 +5,14 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setuptools.setup(
     name="acrl",
-    version="0.0.3",
+    version="0.1.0",
     author="Alexandre Brilhante",
     author_email="alexandre.brilhante@gmail.com",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/brilhana/almgren-chriss",
+    url="https://github.com/alexandrebrilhante/almgren-chriss",
     project_urls={
-        "Bug Tracker": "https://github.com/brilhana/almgren-chriss/issues",
+        "Bug Tracker": "https://github.com/alexandrebrilhante/almgren-chriss/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
