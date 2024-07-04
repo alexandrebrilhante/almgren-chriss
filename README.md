@@ -1,5 +1,6 @@
 # almgren-chriss
 
+[![Python](https://github.com/alexandrebrilhantealmgren-chriss/actions/workflows/python-package.yml/badge.svg)](https://github.com/alexandrebrilhantealmgren-chriss/actions/workflows/python-package.yml)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/acrl)
 ![GitHub](https://img.shields.io/github/license/alexandrebrilhante/almgren-chriss)
 
